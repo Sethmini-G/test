@@ -3,4 +3,4 @@ title: "Curriculum Vitae"
 format: html
 ---
 
-You can ind my CV [Here](files/cv.pdf)
+You can find my CV [Here](files/cv.pdf)

@@ -5,4 +5,4 @@ format: html
 
 You can reach me at:
 
-sethg@xyz.com
+sethg\@xyz.com

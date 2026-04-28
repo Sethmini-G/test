@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sethminis website 1",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "No matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can find my CV Here"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "contact.html",
@@ -14,17 +28,10 @@
     "text": "You can reach me at:\nsethg@xyz.com"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sethminis website 1",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "You can ind my CV Here"
+    "text": "Koswaththa Gunawardana\n\nCredentials\nB.A. Economics and Finance(4-year)\nUniversity of Winnipeg\n\n\nAbout Me:\nI am 4th year undergraduate in Economics and Finance at the University of Winnipeg, looking forward to graduating at the end of 2026. I have an interest in data analysis, finance, and applied economic research. I am currently developing skills in R, data visualization, and statistical analysis through my coursework and projects. This website showcases my academic background and professional information."
   }
 ]
